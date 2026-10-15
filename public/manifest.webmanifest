@@ -1,0 +1,16 @@
+{
+  "name": "Skyline by Candeur",
+  "short_name": "Skyline",
+  "description": "Luxury sky villas in Narsingi, near Financial District & Gachibowli, Hyderabad.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#182340",
+  "theme_color": "#182340",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
